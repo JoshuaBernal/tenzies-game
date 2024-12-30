@@ -1,8 +1,17 @@
-# React + Vite
+# Tenzies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A capstone project from the <a href="https://v2.scrimba.com/learn-react-c0e">React course</a> in <a href="https://scrimba.com">Scrimba</a>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Website
+https://tenzies-game-nine-mocha.vercel.app/
+
+
+## Made with React and Vite
+
+#### Install dependencies
+`npm install`
+
+#### Run the project
+`npm run dev`
+
