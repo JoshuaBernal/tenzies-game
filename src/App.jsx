@@ -98,7 +98,7 @@ function App() {
       </p>
 
       <div className='font-semibold mb-3 text-indigo-700'>
-        <h3>Elapsed Time: {minutes > 60 && `${hours}:`}{seconds > 60 && `${minutes}:`}{seconds}</h3>
+        <h3>Elapsed Time: {hours < 10 && `0`}{hours}:{minutes < 10 && `0`}{minutes}:{seconds < 10 && `0`}{seconds}</h3>
       </div>
 
       <div className="grid grid-cols-5 gap-x-2 gap-y-2 mb-4">
